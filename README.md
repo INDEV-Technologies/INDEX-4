@@ -1,14 +1,14 @@
-# Godot Engine
+# INDEX 4 - Godot Engine
 
 <p align="center">
   <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
+    <img src="https://github.com/INDEV-Technologies/INDEX-4/assets/126918321/9a0d686c-ae8a-4465-9127-bd09bcf47f51" width="400" alt="Godot Engine logo">
   </a>
 </p>
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
+**[INDEX 4](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that
 users can focus on making games without having to reinvent the wheel. Games can
@@ -18,7 +18,7 @@ Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutori
 
 ## Free, open source and community-driven
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
+INDEX is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Godot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
@@ -38,7 +38,7 @@ titles.
 ### Binary downloads
 
 Official binaries for the Godot editor and the export templates can be found
-[on the Godot website](https://godotengine.org/download).
+[on the INDEV website](https://godotengine.org/download) or [on the Godot website](https://godotengine.org/download).
 
 ### Compiling from source
 
@@ -62,7 +62,7 @@ The official documentation is hosted on [Read the Docs](https://docs.godotengine
 It is maintained by the Godot community in its own [GitHub repository](https://github.com/godotengine/godot-docs).
 
 The [class reference](https://docs.godotengine.org/en/latest/classes/)
-is also accessible from the Godot editor.
+is also accessible from the INDEX editor.
 
 We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
 as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
